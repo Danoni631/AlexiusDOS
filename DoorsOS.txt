@@ -1,0 +1,5 @@
+All kernel was coded by me. Im gonna help SuperNaray to make DoorsOS UI.
+
+Im gonna make aditional drivers, hardware systems and other.
+
+And a friend our called 'Lucas' gonna make system programs
